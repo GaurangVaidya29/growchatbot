@@ -1,0 +1,11 @@
+beautifulsoup4
+chromadb
+groq
+httpx
+pydantic
+pydantic-settings
+pyyaml
+sentence-transformers
+streamlit
+pytest
+

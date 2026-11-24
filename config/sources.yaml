@@ -1,0 +1,26 @@
+sources:
+  - source_id: SRC-01
+    title: HDFC Mutual Fund
+    scheme_id: hdfc_mutual_fund
+    url: https://groww.in/mutual-funds/amc/hdfc-mutual-funds
+
+  - source_id: SRC-02
+    title: HDFC Large Cap Fund Direct Growth
+    scheme_id: hdfc_large_cap_direct_growth
+    url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+
+  - source_id: SRC-03
+    title: HDFC Flexi Cap Direct Plan Growth
+    scheme_id: hdfc_flexi_cap_direct_growth
+    url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+
+  - source_id: SRC-04
+    title: HDFC ELSS Tax Saver Fund Direct Plan Growth
+    scheme_id: hdfc_elss_direct_growth
+    url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+
+  - source_id: SRC-05
+    title: HDFC Mid Cap Fund Direct Growth
+    scheme_id: hdfc_mid_cap_direct_growth
+    url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+

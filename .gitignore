@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model and application caches
+.cache/
+models/
+
+# Generated data; keep directory placeholders only
+data/raw/*
+!data/raw/.gitkeep
+data/extracted/*
+!data/extracted/.gitkeep
+data/chunks/*
+!data/chunks/.gitkeep
+data/chroma/*
+!data/chroma/.gitkeep
+data/evaluations/*
+!data/evaluations/.gitkeep
+
